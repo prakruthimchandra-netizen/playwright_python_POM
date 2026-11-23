@@ -1,0 +1,11 @@
+playwright
+pytest
+pytest-playwright
+allure-playwright
+pytest html
+openpyxl
+pytest-dotenv
+x-dist
+order
+
+#pip install -r requiements.txt
